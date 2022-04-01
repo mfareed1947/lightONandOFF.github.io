@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(19, 17, 17);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 100vh;
+}
+
+h1{
+    color: whitesmoke;
+    margin-top: -15px;
+}
+
+.btn{
+position: absolute;
+bottom: 0;
+left: 50%;
+transform: translateX(-50%);
+height: 50px;
+width: 180px;
+display: block;
+text-align: center;
+line-height: 48px;
+background:none;
+color: #fff;
+text-transform: uppercase;
+font-size: 20px;
+  }
+
+
+
+
+
